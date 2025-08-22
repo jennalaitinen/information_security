@@ -31,4 +31,54 @@ EP 133: I'M THE REAL CONNOR
   - Connor writes a blog about this whole experience and adds screenshots - his blog skyrockets to the top of Hacker News and thousands of people voluntarily help Connor and even visit "PND Design" headquarters for him.  
   - Connor finds out there's been a huge article written about fake LinkedIn profiles and it's still happening. People create fake profiles based on other people and apply to jobs with them. 
   - In the end, Connor never manages to reach out to "PND" but still continues to dive deeper into the subject. 
-  
+
+# a) Security hygiene: what basic security practises should everyone follow and know?
+  - Strong passwords: they help protect your accounts, you should also never tell anyone your passwords or use the same one multiple times.
+  - Not clicking suspicious links - they can take you to scam websites or even steal your information without you doing nearly anything. Think before you click anything that seems weird.
+  - Use antivirus applications to scan for viruses or risks on your devices.
+  - For companies, understanding cybersecurity risks and sensitive data is vital. Having an effective firewall and educating IT teams also protects the company's data. 
+
+# b) Make-belief booogie-man 
+
+Company: SkyBites; delivers food via drone
+
+1) What are we working on?
+  - Prioritizing that the delivery gets to its destination on time and intact. 
+  - Service needs to be secure, if service gets hijacked / hacked the whole service is not working. Customer data and bank account credits and addresses need to be secure. 
+  The diagram of the company systems:
+
+# Customer -> Mobile application SkyBites -> Customer makes order and types address and chooses a payment method -> Order gets packed into drone -> Drone gets destination and gets off -> Drone drops off food and returns to headquarters -> Customer is happy with order -> If not, they are in touch with customer support and they can compensate money back if necessary
+
+2) What can go wrong?
+  - According to CIA triad:
+    - Confidentiality: Customer or business data gets leaked leads to loss in trust and legal consequences.
+    - Integrity: Drones delivery gets programmed to the wrong destination -> this leads to lost orders and even lost drones.
+    - Availability: Drones need to be available, if they're not the service is not running and company doesn't earn money.
+
+Biggest threaths:
+  - Customer / business data breach -> loss of clients and trust, financial loss. 
+  - Drone hijacking -> loss of service and trust, financial loss. 
+  - Downtime on application -> financial loss, unhappy customers.
+
+3) What can we do about it?
+  Using META approach:
+  Mitigate
+    -Two-factor authentication for employees 
+    - Proper programming and service to drones to minimize hijacking
+    - GPS to drones to avoid them getting lost / stolen. Also to make sure they get to their destination.
+
+  Eliminate
+    - Do not send customers newsletters / emails, do not ask for more information than what you need.
+    - Trash old drones to eliminate the risk of them not working / breaking.
+
+  Transfer
+    - Use third-party tracking system instead of developing your own
+
+  Accept
+    - Some malfunctions on payments may happen, they will be resolved in customer service
+    - Downtime happens
+
+4) Did we do a good enough job?
+    - Regular assesments on service
+    - Feedback from customers on application or through customer service
+    - Constantly developing service 
