@@ -1,0 +1,34 @@
+## h1 Should Tero wear a helmet?
+
+# Threat Modeling:
+
+Braiterman et al 2020: Threat modeling manifesto
+  - What is threat modeling? It's analying aspects of a system to pinpoint security concerns.
+  - Threat modeling is important and is for everyone. It helps you to recognize implementation issues and to anticipate what can go wrong when dealing with systems.
+  - Threat modeling manifesto is a place to share knowledge on threat modeling to help educate everyone on the matter. It works as a guide for people to learn how to protect themselves and to protect their data and applications. 
+    
+Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course:
+  - The four aspects of threat modeling to better understand and develop your threat modeling are: "What are we working on?", "What can go wrong?", "What are we going to do about it?" and "Did we do a good job?". 
+  - "What are we working on?" implies to the importance of collaboration among multiple people to share their thoughts and opinions to better answer the question of what we're working on.
+  - "What can go wrong?" is an important question to be asked, since it allows for already existing concerns to be spoken outloud and therefore it eliminates future issues.
+  - "What are we going to do about it?" is a vital step incase we face issues - it's important to know the plan of action and to know what needs to be done to minimize the problems. Risk management is an important aspect to help make decisions.
+  - "Did we do a good job?" as the final question tells us if we are satisfied with our work in threat modeling. This question also allows us to understand our strenghts and weak-points.
+  
+OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
+  - A summary of the advantages of threat modeling; an advanced knowledge of how to identify risks, and how to protect your data and information.
+  - A deeper dive into the four questions of threat modeling; how system modeling and understanding data flow diagrams helps us answer the first question. Also a deeper dive into how STRIDE allows us to understand what can go wrong, as well as learning the responses to "what we're going to do about it", being mitigation, elimination and accepting. Reviewing the threat model answers the last question.
+  - Understanding the challenges of threat modeling allows us to make efficient process and focus on building a comprehensive approach on security. 
+
+# Infosec scene
+  
+EP 133: I'M THE REAL CONNOR
+  - Connor got a message saying his identity had been stolen. Connor nearly deleted the message straight up, but then saw the message had an attachment in it - it was his resume with true information about him. Connor realizied the sender wass trying to be him. The resume was a mixture of lies and truths, which were enough to freak Connor out.
+  - The sender explained to Connor he was hired by someone to pretend to be him for a job interview that he had applied to - it all seemed so random and crazy and Connor decided he needed more information. 
+  - The sender - named Andrew explaines that at his job, a person named PND (PND is not their real name, but an acronym) tells Andrew to pretend to be Connor. 
+  - Connor is doing his job interview on Zoom, until the employer tells Connor that another person named Connor is also applying for this job and is waiting to join the Zoom also - Connor obviously is freaked out. Connor confronted the "fake Connor" and he left the Zoom immediately. However, the fake Connor wasn't Andrew, so who was it?
+  - After interrogating Andrew and getting nowhere, he attempts to find out who PND is, but finds out nothing in particular.
+  - Connor then desides to email himself - the fake Connor since he had their email, which was the exact same as Connor's own email, but with a "2" in the end. Fake Connor surprisingly answers and tells Connor he's "cute" - creepily. He also tells Connor his "Github is great". (Connor has been coding on Github for 12 years).
+  - Connor writes a blog about this whole experience and adds screenshots - his blog skyrockets to the top of Hacker News and thousands of people voluntarily help Connor and even visit "PND Design" headquarters for him.  
+  - Connor finds out there's been a huge article written about fake LinkedIn profiles and it's still happening. People create fake profiles based on other people and apply to jobs with them. 
+  - In the end, Connor never manages to reach out to "PND" but still continues to dive deeper into the subject. 
+  
