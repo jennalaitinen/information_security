@@ -27,6 +27,7 @@ Karvinen 2020: Command Line Basics Revisited
 one is listening. Listening in this context means that your computer is waiting for connections. 
     - Network distance: 0 hops. 0 Hops means that the nmap reported that no packets left my computer (since I was not connected to the internet). 
     - Nmap done: 1 IP address (1 host up) scanned in 8.22 seconds
+    - Scanning the ports means it checks which ports appear to be open.
     - Overall the experiment went well and I faced little trouble. I figured every problem by simply googling it or checking out course material for advice or commands.
 
   # c) Daemon scan
@@ -36,12 +37,14 @@ one is listening. Listening in this context means that your computer is waiting 
     - Not shown: 998 closed tcp ports (reset) (one less than before)
     - Network distance: 0 hops
   - The information probably should've been significantly different than before but after using the commands and restarting a few times I still only got those results
+  - Daemon means that there is one port listening, compared to before when no port was listening.
 
   # d) Bandit Oh-five
   - Managed to solve a few of the levels from Over The Wire:Bandit
   - I used the manual a bit for the start, since I was a bit confused but overall I think I progressed and managed to do the levels pretty good. I followed instructions and the commands needed.
   - I did levels 0-4
-
+  - Overall the levels taught me how to read files and to find files that are hidden. The levels consisted of using quotes to decypher files and read passwords. I now have a better understanding on how to read files. 
+    
   # References:
   https://terokarvinen.com/information-security/
   
