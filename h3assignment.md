@@ -38,6 +38,7 @@ one is listening. Listening in this context means that your computer is waiting 
   - The information probably should've been significantly different than before but after using the commands and restarting a few times I still only got those results
 
   # d) Managed to solve a few of the levels from Over The Wire:Bandit
+I used the manual a bit for the start, since I was a bit confused but overall I think I progressed and managed to do the levels pretty good. 
 
   # References:
   https://terokarvinen.com/information-security/
