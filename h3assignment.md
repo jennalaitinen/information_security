@@ -37,7 +37,7 @@ one is listening. Listening in this context means that your computer is waiting 
     - Network distance: 0 hops
   - The information probably should've been significantly different than before but after using the commands and restarting a few times I still only got those results
 
-  # Managed to solve a few of the levels from Over The Wire:Bandit
+  # d) Managed to solve a few of the levels from Over The Wire:Bandit
 
   # References:
   https://terokarvinen.com/information-security/
