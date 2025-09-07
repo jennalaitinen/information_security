@@ -41,7 +41,11 @@ one is listening. Listening in this context means that your computer is waiting 
 
   # References:
   https://terokarvinen.com/information-security/
+  
   https://terokarvinen.com/2021/install-debian-on-virtualbox/
+  
   https://terokarvinen.com/2020/command-line-basics-revisited/
+  
   https://nmap.org
+  
   https://nmap.org/book/man-port-scanning-techniques.html
