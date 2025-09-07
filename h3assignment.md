@@ -39,7 +39,8 @@ one is listening. Listening in this context means that your computer is waiting 
 
   # d) Bandit Oh-five
   - Managed to solve a few of the levels from Over The Wire:Bandit
-  - I used the manual a bit for the start, since I was a bit confused but overall I think I progressed and managed to do the levels pretty good. I followed instructions and the         commands needed. 
+  - I used the manual a bit for the start, since I was a bit confused but overall I think I progressed and managed to do the levels pretty good. I followed instructions and the commands needed.
+  - I did levels 0-4
 
   # References:
   https://terokarvinen.com/information-security/
