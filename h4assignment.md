@@ -21,5 +21,12 @@ A03:2021 - Injection
 - Example attack scenarios which include the commands, which makes it easy to observe and learn more.
 
 Munroe: xkcd 327: Exploits of a Mom
-- This page is a humour-based "comic" type site, that teaches the reader more about their computers 
-- 
+- This page is a humour-based "comic" site
+-  The "Exploits of a Mom" jokes about the mom naming her son something that when inserted into the computer, accidentally removes the student data from their computer ( https://xkcd.com/327/ )
+
+# a) 
+- Installation of Webgoat
+    - I booted up my Linux and followed the commands and instructions on https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/, however I was unable to complete the command "$ sudo apt-get install openjdk-17-jre", when I run it it replies: 
+- Solved Webgoat 2023 4: General: Development tools
+- Updated OS and applications on Linux
+- Solved SQLZoo
