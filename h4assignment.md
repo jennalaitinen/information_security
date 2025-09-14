@@ -24,13 +24,25 @@ Munroe: xkcd 327: Exploits of a Mom
 - This page is a humour-based "comic" site
 -  The "Exploits of a Mom" jokes about the mom naming her son something that when inserted into the computer, accidentally removes the student data from their computer ( https://xkcd.com/327/ )
 
-# a) 
+## a) Webgoat
 - Installation of Webgoat
     - I booted up my Linux and followed the commands and instructions on https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/, however I was unable to complete the command "$ sudo apt-get install openjdk-17-jre", when I run it it replies that the package can not be found.
     - img src = Screenshot 2025-09-14 at 14.03.33.png
-    - Therefore, I was unable to run the other commands either, since it did not work. 
-# c) 
+    - Therefore, I was unable to run the other commands either, since it did not work.
+      
+## c) Update Linux
 - Updated OS and applications on Linux by opening terminal and typing the commands: sudo apt-get update' and
 'sudo apt-get dist-upgrade'.
 
-# d) 
+## d) Solve SQLzoo
+- 0 SELECT basics (three tasks)
+  - Simple changes to code to get the population of the right country / countries, and learning the usage of "BETWEEN" - command.   
+- 2 SELECT from WORLD - first two subtasks
+  - Large countries: SELECT name FROM world WHERE population > 200000000. Simple and easy to understand code, instructions are clear and I like how if you get stuck, there's instructions and explanations for the tasks.
+  - Per capita GDP:  This one was a bit more tricky, but with instructions and a bit of assistance from the site, I got it correct. The format was basically the same but with the addition of GDP.
+ 
+## e) Solve Portswigger Labs
+- I was confused so I checked out the solution and then I tested modifying the parameter "category" and gave it the value '+OR+1=1--
+- I then submitted and managed to get it to display unreleased products = SQL injection was successful
+- OR1=1 makes all the unreleased products released
+- I educated myself more on the subject since i was still a bit confused on https://www.w3schools.com/sql/sql_injection.asp and learned more about the 1=1 command and why it's important to understand it
