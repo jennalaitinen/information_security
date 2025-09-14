@@ -48,3 +48,24 @@ Munroe: xkcd 327: Exploits of a Mom
 - I then submitted and managed to get it to display unreleased products = SQL injection was successful
 - OR1=1 makes all the unreleased products released
 - I educated myself more on the subject since i was still a bit confused on https://www.w3schools.com/sql/sql_injection.asp and learned more about the 1=1 command and why it's important to understand it
+
+## References: 
+https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/
+
+https://www.w3schools.com/sql/sql_injection.asp
+
+https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
+
+https://terokarvinen.com/information-security/
+
+https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+
+https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
+
+https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+
+https://owasp.org/Top10/A03_2021-Injection/
+
+https://xkcd.com/327/
+
+https://sqlzoo.net/wiki/SQL_Tutorial
