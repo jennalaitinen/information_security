@@ -23,11 +23,13 @@ A03:2021 - Injection
 Munroe: xkcd 327: Exploits of a Mom
 - This page is a humour-based "comic" site
 -  The "Exploits of a Mom" jokes about the mom naming her son something that when inserted into the computer, accidentally removes the student data from their computer ( https://xkcd.com/327/ )
+-  The "Exlpoits of a Mom" is the file "Screenshot 2025-09-14 at 13.41.png"
 
 ## a) Webgoat
 - Installation of Webgoat
     - I booted up my Linux and followed the commands and instructions on https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/, however I was unable to complete the command "$ sudo apt-get install openjdk-17-jre", when I run it it replies that the package can not be found.
-    - img src = Screenshot 2025-09-14 at 14.03.33.png
+    - A screenshot of my Linux terminal of this particular issue is the file "Screenshot 2025-09-14 at 14.03.png"
+    - I tried googling the issue but was unsuccessful in fixing the issue.
     - Therefore, I was unable to run the other commands either, since it did not work.
       
 ## c) Update Linux
