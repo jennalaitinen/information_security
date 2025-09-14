@@ -26,7 +26,11 @@ Munroe: xkcd 327: Exploits of a Mom
 
 # a) 
 - Installation of Webgoat
-    - I booted up my Linux and followed the commands and instructions on https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/, however I was unable to complete the command "$ sudo apt-get install openjdk-17-jre", when I run it it replies: 
-- Solved Webgoat 2023 4: General: Development tools
-- Updated OS and applications on Linux
-- Solved SQLZoo
+    - I booted up my Linux and followed the commands and instructions on https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/, however I was unable to complete the command "$ sudo apt-get install openjdk-17-jre", when I run it it replies that the package can not be found.
+    - img src = Screenshot 2025-09-14 at 14.03.33.png
+    - Therefore, I was unable to run the other commands either, since it did not work. 
+# c) 
+- Updated OS and applications on Linux by opening terminal and typing the commands: sudo apt-get update' and
+'sudo apt-get dist-upgrade'.
+
+# d) 
